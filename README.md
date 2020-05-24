@@ -30,7 +30,7 @@ Exemplo:
 
     {
     	casesPerCity(date:"2020-05-20", city:"Sertãozinho", state:"PB") {
-	    	regiao,
+	    		regiao,
     		casos,
     		obitos
     	}
