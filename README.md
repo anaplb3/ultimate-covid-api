@@ -17,7 +17,7 @@ Do lado direito é possível ver as querys disponíveis para consulta. Escolhend
 A consulta aos casos de um determinado município se daria dessa forma:
 
  ### Pelo Postman:
- Adicione a url ( [http://127.0.0.1:5000](http://127.0.0.1:5000)) a chave 'query', e nela passe o json com sua consulta.
+ Adicione a url ( [http://127.0.0.1:5000](http://127.0.0.1:5000) ) a chave 'query', e nela passe o json com sua consulta.
  
 Exemplo: 
 [http://127.0.0.1:5000/cases?query={casesPerCity(city: "Sertãozinho",date:"", state:"PB") {casos,obitos,recuperados}}](http://127.0.0.1:5000/cases%20?query=%7B%20%09casesPerCity%28city:%20%22Sert%C3%A3ozinho%22,%20date:%22%22,%20state:%22PB%22%29%20%7B%20%09%09casos,%20%09%09obitos,%20%20%09%09recuperados%20%09%7D%20%09%20%7D)
