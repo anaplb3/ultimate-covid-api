@@ -1,5 +1,6 @@
 # Ultimate-Covid-API
-A API que deu certo.
+API Graphql feita em Flask que disponibiliza os dados sobre COVID-19 no Brasil, usando como fonte o site do [Ministério da Saúde](https://covid.saude.gov.br).
+> Não atualizado desde maio de 2020.
 
 # Passo a passo
 
