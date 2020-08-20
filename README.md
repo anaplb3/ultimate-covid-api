@@ -1,6 +1,20 @@
 # Ultimate-Covid-API
+<p>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/anaplb3/ultimate-covid-api?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/anaplb3/ultimate-covid-api">
+  
+  <a href="https://github.com/anaplb3/ultimate-covid-api/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/anaplb3/ultimate-covid-api">
+  </a>
+   <a href="https://github.com/anaplb3/scrapy-sipac-processos/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/anaplb3/ultimate-covid-api?style=social">
+  </a>
+</p>
+
 API Graphql feita em Flask que disponibiliza os dados sobre COVID-19 no Brasil, usando como fonte o site do [Ministério da Saúde](https://covid.saude.gov.br).
-> Não atualizado desde maio de 2020.
+
+> Os dados não são atualizados desde maio de 2020.
 
 # Passo a passo
 
